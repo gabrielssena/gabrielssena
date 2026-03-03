@@ -1,8 +1,18 @@
-## Faaaala dev, Sena Aqui!
+## Gabriel Sena
+
+Engenheiro de Software focado em desenvolvimento Web com PHP.  
+
+---
 
 <div>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielssena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielssena&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=gabrielssena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-<br>
+
+---
+
+### Stack principal
+
+PHP • Laravel • MySQL • JavaScript • Docker • Git
+
+---
 
