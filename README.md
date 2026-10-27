@@ -1,18 +1,5 @@
-## Gabriel Sena
+<div align="center">
 
-Engenheiro de Software focado em desenvolvimento Web com PHP.  
+<img src="./card.svg" alt="Aang em ASCII ao lado das informações do Gabriel Sena em estilo neofetch" width="100%" />
 
----
-
-<div>
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=gabrielssena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
----
-
-### Stack principal
-
-PHP • Laravel • MySQL • JavaScript • Docker • Git
-
----
-
